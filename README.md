@@ -159,6 +159,19 @@ An agricultural AI platform combining conversational assistance, crop-disease an
 
 ---
 
+## Project Labs
+
+I maintain dedicated public labs for deliberate repetition and reproducible training:
+
+- [ML Projects](https://github.com/sudipta200507/ML-Projects) — five classical ML projects covering regression, logistic regression, Random Forest, SVM and k-NN on public datasets.
+- [DL Projects](https://github.com/sudipta200507/DL-Projects) — CNN, transfer learning, LSTM, transformer NLP and time-series deep learning.
+- [AI + Cybersecurity Projects](https://github.com/sudipta200507/AI-Cybersecurity-Projects) — phishing detection, intrusion detection, firewall classification, email triage and log anomaly detection.
+- [AI Engineering Projects](https://github.com/sudipta200507/AI-Engineering-Projects) — RAG, recommendation systems, data quality, document intelligence and model monitoring.
+
+These labs are intentionally reproducible: datasets are retrieved from public sources, training is performed locally, and each project documents the path from clone → environment → data → training → evaluation.
+
+---
+
 ## Current Learning Path
 
 `text
