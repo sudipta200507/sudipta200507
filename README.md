@@ -87,36 +87,75 @@ I'm currently pursuing **B.Tech in Computer Science & Engineering (Artificial In
 
 ## Featured Work
 
-### 🛡️ AI-Powered Email Threat Detection & Forensic Intelligence
+### 🛡️ ForentisAI — Email Threat Detection & Forensic Intelligence
 
-An AI/security engineering system combining email evidence extraction, SPF/DKIM/DMARC, infrastructure intelligence, machine learning, NLP, fusion, and explainability.
+**AI + Cybersecurity + NLP + Explainable ML**
 
-**Focus:** AI + Cybersecurity + NLP + Explainable ML
+A modular security-engineering platform that processes email evidence through extraction, SPF/DKIM/DMARC, Rspamd, DNS/RDAP/GeoIP intelligence, technical ML, DeBERTa-based NLP, fusion, and explainability.
 
-→ [View project](https://github.com/sudipta200507/SIH-Project-2026)
+**Engineering highlights**
+- Evidence-first pipeline architecture
+- FastAPI backend
+- RandomForest technical model
+- DeBERTa-v3 training/inference pipeline
+- SHAP explainability
+- Explicit failure states
+- Controlled network intelligence
+- Security and privacy boundaries
+
+→ [Repository](https://github.com/sudipta200507/SIH-Project-2026)
 
 ### 🧠 LLM Fine-Tuning
 
-A structured learning and experimentation repository covering LLM fundamentals, supervised fine-tuning, PEFT/LoRA, evaluation, inference, and the relationship between fine-tuning, prompting, and RAG.
+**LLM Engineering + Fine-Tuning + PEFT + RAG**
 
-→ [View project](https://github.com/sudipta200507/LLM-s-Fine-Tuning)
+A structured learning and experimentation repository covering the path from LLM fundamentals through supervised fine-tuning, PEFT/LoRA, evaluation, inference, and the relationship between fine-tuning, prompting, and RAG.
+
+→ [Repository](https://github.com/sudipta200507/LLM-s-Fine-Tuning)
 
 ### 🏠 Sarada Residential — ML Price Prediction
 
-A complete ML workflow for residential price prediction, accompanied by a deployable Flask application.
+**Machine Learning + Regression + API Deployment**
 
-**Focus:** Regression + ML Engineering + API Deployment
+A complete ML workflow for residential price prediction, extended into a deployable Flask application.
 
-→ [ML repository](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction)  
-→ [Web application](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction-site)
+**Engineering highlights**
+- Supervised regression
+- Data preparation
+- scikit-learn model
+- Flask API
+- Input validation
+- Model serialization
+- Vercel deployment
+
+→ [ML model](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction)  
+→ [Application](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction-site)
 
 ### 🧹 DataGlum
 
-An automated data-quality tool designed to clean and prepare messy CSV datasets for machine-learning workflows.
+**Data Engineering + Python + Pandas + FastAPI**
 
-**Focus:** Python + Pandas + FastAPI + Data Engineering
+An automated data-quality tool for preparing messy CSV datasets for machine-learning workflows.
 
-→ [View project](https://github.com/sudipta200507/DataGlum)
+**Engineering highlights**
+- Missing-value handling
+- Duplicate detection
+- Type normalization
+- Outlier processing
+- API-based processing
+- Cloud execution
+
+→ [Repository](https://github.com/sudipta200507/DataGlum)
+
+### 🌱 GreenGrow
+
+**Applied AI + Computer Vision + Full-Stack Engineering**
+
+An agricultural AI platform combining conversational assistance, crop-disease analysis, weather intelligence, market information, and farm-management workflows.
+
+→ [Repository](https://github.com/sudipta200507/GreenGrow)
+
+> **Portfolio principle:** the projects above represent distinct engineering problems. Older coursework, experiments, and duplicate repositories are kept separate rather than presented as flagship work.
 
 ---
 
