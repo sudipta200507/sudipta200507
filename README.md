@@ -1,225 +1,74 @@
+# Sudipta Roy
 
-# Hi, I'm Sudipta Roy 👋
+**AI/ML Engineering · LLM Systems · Applied AI Security · Python**
 
-### AI/ML Engineer • LLM Engineer • Python Developer
+I am a B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning. I build practical AI applications and study the engineering work around models: data pipelines, evaluation, APIs, retrieval, deployment, observability, and security boundaries.
 
-I build practical AI systems across **Machine Learning, Deep Learning, LLMs, RAG, NLP, and AI-powered applications**.
+## Focus Areas
 
-I'm currently pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)** and turning what I learn into working projects, experiments, and engineering systems.
+- **AI/ML engineering:** data preparation, supervised learning, evaluation, model serving
+- **LLM engineering:** transformers, fine-tuning, embeddings, retrieval-augmented generation (RAG), local inference
+- **Applied AI security:** email-threat analysis, evidence-driven security workflows, responsible automation
+- **Software engineering:** Python services, REST APIs, React applications, databases, testing, Docker
 
----
+## Selected Projects
 
-## About Me
+### [ForentisAI — Email Threat Detection & Forensic Intelligence](https://github.com/sudipta200507/ForentisAI)
+An evidence-oriented email-analysis platform combining email parsing, SPF/DKIM/DMARC results, infrastructure intelligence, DeBERTa-based text classification, a technical Random Forest model, explainability, deterministic risk scoring, and JSON/HTML reports. The project emphasizes explicit failure states and privacy boundaries. Its model metrics are based on synthetic data and should not be interpreted as proof of real-world detection performance.
 
-- 🎓 B.Tech CSE (AI & ML)
-- 🐍 Python-first AI/ML development
-- 🤖 Interested in **LLMs, RAG, NLP, Deep Learning & Generative AI**
-- 🧠 Focused on understanding models from fundamentals to implementation
-- 🛠️ Building practical projects rather than only course exercises
-- 🚀 Interested in taking AI models from **research/experimentation → usable software**
+**Stack:** Python, FastAPI, DeBERTa, scikit-learn, SHAP, Rspamd, PostgreSQL/SQLite, React, Docker.
 
----
+### [TraceHoundAI — Authorized Reconnaissance-to-Report Pipeline](https://github.com/sudipta200507/TraceHoundAI)
+A controlled security-assessment workflow that organizes authorized asset discovery, service and technology observations, endpoint discovery, scan evidence, and report generation. A locally hosted Qwen3 8B model through Ollama is intended to summarize supplied evidence; deterministic validation and scope controls remain central to the design. Use only on systems for which permission has been granted.
 
-## What I Build
+**Stack:** Python, FastAPI, React/Vite, YAML, security reconnaissance tools, Ollama, Qwen3, Pydantic, Markdown/PDF reporting.
 
-### 🤖 AI / LLM Engineering
+### [LLM Fine-Tuning Lab](https://github.com/sudipta200507/LLM-s-Fine-Tuning)
+A record of fine-tuning experiments and learning material. Includes a DeBERTa-v3 email-threat classification model trained and evaluated on a synthetic dataset; reported scores describe that dataset only, not expected performance on real email.
 
-- Large Language Models
-- Fine-tuning & PEFT
-- RAG pipelines
-- Embeddings & vector databases
-- NLP systems
-- AI developer tools
-- Local LLM applications
-- Model evaluation & inference
+**Focus:** Transformers, supervised fine-tuning, evaluation, model artifacts, reproducible experiments.
 
-### 📊 Machine Learning
+### [DataGlum — CSV Data Quality](https://github.com/sudipta200507/DataGlum)
+A data-cleaning tool for inspecting and preparing tabular data, including missing-value checks, duplicate detection, type normalization, and outlier handling.
 
-- Supervised & unsupervised learning
-- Regression & classification
-- Feature engineering
-- Model evaluation
-- Explainable AI
-- ML deployment
+**Stack:** Python, Pandas, NumPy, FastAPI, HTML/CSS/JavaScript.
 
-### ⚙️ Software Engineering
+### [GreenGrow AI](https://github.com/sudipta200507/greengrowai)
+An applied agricultural AI project. Review the repository documentation for its current implemented features and deployment status.
 
-- Python backends
-- REST APIs
-- Database-driven applications
-- AI-powered web applications
-- Deployment-oriented systems
-- Automation and developer tooling
-
----
-
-## Tech Stack
-
-**Languages**
-
-`Python` `JavaScript` `SQL`
-
-**AI / ML**
-
-`NumPy` `Pandas` `scikit-learn` `TensorFlow` `PyTorch`
-
-**LLM / GenAI**
-
-`Hugging Face` `LangChain` `RAG` `Embeddings` `Vector Databases` `Fine-Tuning` `LoRA`
-
-**Backend**
-
-`FastAPI` `Flask` `Django`
-
-**Frontend**
-
-`React` `Vite` `Tailwind CSS`
-
-**Databases**
-
-`MySQL` `PostgreSQL` `Supabase`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `Jupyter` `VS Code` `PyCharm` `Ollama`
-
----
-
-## Featured Work
-
-### 🛡️ ForentisAI — Email Threat Detection & Forensic Intelligence
-
-**AI + Cybersecurity + NLP + Explainable ML**
-
-A modular security-engineering platform that processes email evidence through extraction, SPF/DKIM/DMARC, Rspamd, DNS/RDAP/GeoIP intelligence, technical ML, DeBERTa-based NLP, fusion, and explainability.
-
-**Engineering highlights**
-- Evidence-first pipeline architecture
-- FastAPI backend
-- RandomForest technical model
-- DeBERTa-v3 training/inference pipeline
-- SHAP explainability
-- Explicit failure states
-- Controlled network intelligence
-- Security and privacy boundaries
-
-→ [Repository](https://github.com/sudipta200507/SIH-Project-2026)
-
-### 🧠 LLM Fine-Tuning
-
-**LLM Engineering + Fine-Tuning + PEFT + RAG**
-
-A structured learning and experimentation repository covering the path from LLM fundamentals through supervised fine-tuning, PEFT/LoRA, evaluation, inference, and the relationship between fine-tuning, prompting, and RAG.
-
-→ [Repository](https://github.com/sudipta200507/LLM-s-Fine-Tuning)
-
-### 🏠 Sarada Residential — ML Price Prediction
-
-**Machine Learning + Regression + API Deployment**
-
-A complete ML workflow for residential price prediction, extended into a deployable Flask application.
-
-**Engineering highlights**
-- Supervised regression
-- Data preparation
-- scikit-learn model
-- Flask API
-- Input validation
-- Model serialization
-- Vercel deployment
-
-→ [ML model](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction)  
-→ [Application](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction-site)
-
-### 🧹 DataGlum
-
-**Data Engineering + Python + Pandas + FastAPI**
-
-An automated data-quality tool for preparing messy CSV datasets for machine-learning workflows.
-
-**Engineering highlights**
-- Missing-value handling
-- Duplicate detection
-- Type normalization
-- Outlier processing
-- API-based processing
-- Cloud execution
-
-→ [Repository](https://github.com/sudipta200507/DataGlum)
-
-### 🌱 GreenGrow
-
-**Applied AI + Computer Vision + Full-Stack Engineering**
-
-An agricultural AI platform combining conversational assistance, crop-disease analysis, weather intelligence, market information, and farm-management workflows.
-
-→ [Repository](https://github.com/sudipta200507/GreenGrow)
-
-> **Portfolio principle:** the projects above represent distinct engineering problems. Older coursework, experiments, and duplicate repositories are kept separate rather than presented as flagship work.
-
----
+### [Sarada Residential — Flat Price Prediction](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction)
+A supervised regression project, paired with a [web application](https://github.com/sudipta200507/Sarada-Residential-Flat-price-prediction-site) that exposes price estimation through a Flask API.
 
 ## Project Labs
 
-I maintain dedicated public labs for deliberate repetition and reproducible training:
+- [AI Engineering Projects](https://github.com/sudipta200507/AI-Engineering-Projects) — RAG, recommendations, data quality, document intelligence, and model monitoring.
+- [AI Cybersecurity Projects](https://github.com/sudipta200507/AI-Cybersecurity-Projects) — defensive classification and anomaly-analysis experiments.
+- [Machine Learning Projects](https://github.com/sudipta200507/ML-Projects) — classical ML workflows using documented public datasets.
+- [Deep Learning Projects](https://github.com/sudipta200507/DL-Projects) — computer vision, NLP, transformers, and time-series experiments.
+- [Machine Learning Journey](https://github.com/sudipta200507/-My-Machine-Learning-Journey) — project-oriented learning notes and experiments.
+- [Computer Networks — PacketPath](https://github.com/sudipta200507/Computer-networks) — a self-contained interactive networking learning website.
 
-- [ML Projects](https://github.com/sudipta200507/ML-Projects) — five classical ML projects covering regression, logistic regression, Random Forest, SVM and k-NN on public datasets.
-- [DL Projects](https://github.com/sudipta200507/DL-Projects) — CNN, transfer learning, LSTM, transformer NLP and time-series deep learning.
-- [AI + Cybersecurity Projects](https://github.com/sudipta200507/AI-Cybersecurity-Projects) — phishing detection, intrusion detection, firewall classification, email triage and log anomaly detection.
-- [AI Engineering Projects](https://github.com/sudipta200507/AI-Engineering-Projects) — RAG, recommendation systems, data quality, document intelligence and model monitoring.
+## Engineering Principles
 
-These labs are intentionally reproducible: datasets are retrieved from public sources, training is performed locally, and each project documents the path from clone → environment → data → training → evaluation.
+- Prefer reproducible steps over unsupported claims.
+- Document data sources, evaluation methods, limitations, and intended use.
+- Treat model output as evidence to validate, not unquestionable truth.
+- Keep credentials, private datasets, and local environment files out of version control.
+- Separate experimental results from production-readiness claims.
 
----
+## Technology
 
-## Current Learning Path
+**Languages:** Python, JavaScript, SQL  
+**ML/DL:** NumPy, Pandas, scikit-learn, PyTorch, TensorFlow  
+**LLM:** Hugging Face, Transformers, fine-tuning, embeddings, RAG, Ollama  
+**Backend:** FastAPI, Flask  
+**Frontend:** React, Vite, Tailwind CSS  
+**Data & infrastructure:** PostgreSQL, MySQL, Supabase, Docker, Git/GitHub
 
-`text
-Python & Software Engineering
-            ↓
-Machine Learning
-            ↓
-Deep Learning
-            ↓
-NLP
-            ↓
-Transformers
-            ↓
-LLM Engineering
-            ↓
-Fine-Tuning / PEFT
-            ↓
-RAG & AI Agents
-            ↓
-Production AI Systems
-`
+## Current Direction
+
+Building a stronger foundation in ML/DL and LLM engineering while developing secure, testable, evidence-driven AI applications.
 
 ---
 
-## Engineering Philosophy
-
-> **Learn the fundamentals. Build the system. Measure it. Understand the failure modes. Improve it.**
-
-I care about the complete engineering lifecycle:
-
-**Theory → Implementation → Experimentation → Evaluation → Deployment**
-
----
-
-## GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-sudipta200507-181717?style=flat-square&logo=github)](https://github.com/sudipta200507)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sudipta200507&style=flat-square&color=blue)
-
----
-
-## Connect
-
-**GitHub:** [@sudipta200507](https://github.com/sudipta200507)
-
-**Email:** sudiptaroytheofficial@gmail.com
-
----
-
-### Building toward production-grade AI systems, one project at a time. 🚀
+**Profile:** [github.com/sudipta200507](https://github.com/sudipta200507)
